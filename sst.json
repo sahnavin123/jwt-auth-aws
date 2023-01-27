@@ -1,0 +1,5 @@
+{
+  "name": "jwt-auth",
+  "region": "ap-south-1",
+  "main": "stacks/index.ts"
+}
